@@ -18,7 +18,8 @@ Primarily designed for use in a language learning application.
 Select an answer  
 Either you find the right one,  if you don't, you are given the answer and the translation of it
 
-<img src="https://github.com/waymaiker/edtech_flutter_packages/blob/master/readandrespond/package%20description%20-%20good%20answer%20view.png" alt="When the user has the right answer" width="200"/> <img src="https://github.com/waymaiker/edtech_flutter_packages/blob/master/readandrespond/package%20description%20-%20wrong%20answer%20view.png" alt="When the user has the right answer" width="200"/>
+<img src="https://github.com/waymaiker/edtech_flutter_packages/blob/master/readandrespond/package%20description%20-%20%20view.png" alt="exercice view" width="200"/> <img src="https://github.com/waymaiker/edtech_flutter_packages/blob/master/readandrespond/package%20description%20-%20selected%20answer%20view.png" alt="seleted options view" width="200"/> <img src="https://github.com/waymaiker/edtech_flutter_packages/blob/master/readandrespond/package%20description%20-%20good%20answer%20view.png" alt="When the user has the right answer" width="200"/> <img src="https://github.com/waymaiker/edtech_flutter_packages/blob/master/readandrespond/package%20description%20-%20wrong%20answer%20view.png" alt="When the user has the right answer" width="200"/>
+
 
 ## Usage
 
