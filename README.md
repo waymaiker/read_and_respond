@@ -12,7 +12,8 @@ and the Flutter guide for
 -->
 
 This package is useful when you are trying to construct a test or quiz and check the user's understanding of a text.
-Primarily designed for use in a language learning application.
+I'm currently developping a learning app and it's one of the package I already developped (There are 9 of them)
+
 
 ## Features
 Select an answer  
