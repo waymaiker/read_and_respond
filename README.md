@@ -11,7 +11,7 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
 
-This package is useful when you are trying to construct a test or quiz and check the user's understanding of a text.
+This package is useful when you are trying to build a test or quiz and check the user's understanding of a text.
 I'm currently developping a learning app and it's one of the package I already developped (There are 9 of them)
 
 
